@@ -16,13 +16,13 @@ First Address Private Key :
 
 ## PAX Test Token :
 
-Transaction Hash : \n
+Transaction Hash : 
 `0x4a08114c6fb5f6677f6fd0f096e74f6a50c56c2b320daa468f1e888d67e5cd1f` 
 
-Contract Address : \n
+Contract Address : 
 `0xc75b06256d6ea38686ad166251370d534a920a8d` 
 
-Contract Test ABI : \n
+Contract Test ABI : 
 `PAXtest.abi`
 
 
