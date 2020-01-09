@@ -1,4 +1,4 @@
-### Test Tokens
+# Test Tokens :
 This Repo contains some test tokens which can be used later for any kind of projects along with the common address pathway
 
 Common Mnemonic :
@@ -24,6 +24,12 @@ Contract Address :
 
 Contract Test ABI : 
 `PAXtest.abi`
+
+Option 1 :
+Compile the contract in remix.ethereum.org and deploy it with the address and transfer required token to your address.
+
+Option 2 :
+Using the Common Mnemonic given above or with the private key login to metamask and add your token with the contract address and transfer PAX token to your address.
 
 
 
