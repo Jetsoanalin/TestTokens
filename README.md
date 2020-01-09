@@ -14,7 +14,16 @@ First Address Private Key :
 0xf67ea7b3f291950cd29559f56d54ba46ba1dc5072c6747c09d4d64f456f76798
 
 
-PAX Token 
+PAX Token :
+
+Transaction Hash :
+0x4a08114c6fb5f6677f6fd0f096e74f6a50c56c2b320daa468f1e888d67e5cd1f 
+
+Contract Address :
+0xc75b06256d6ea38686ad166251370d534a920a8d
+
+Contract Test ABI :
+PAXtest.abi
 
 
 
