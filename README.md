@@ -14,7 +14,10 @@ First Address Private Key :
 `0xf67ea7b3f291950cd29559f56d54ba46ba1dc5072c6747c09d4d64f456f76798`
 
 
-## PAX Test Token :
+## PAX Test Token (Rinkeby) :
+#### Test Network Created by : Jetso Analin
+#### Copyright @https://github.com/paxosglobal/pax-contracts
+
 
 Transaction Hash : 
 `0xe3b4a0c6682bfec4c516fc625cd7ca94f00bb0e95d00346564594a9d1973ebc5` 
@@ -24,6 +27,9 @@ Contract Address :
 
 Contract Test ABI : 
 `PAXtest.abi`
+
+Token Holder Link :
+`https://rinkeby.etherscan.io/token/0xf77722e80da04da3ab79f4a17187b1b938ac8646#balances`
 
 Option 1 :
 Compile the contract in remix.ethereum.org and deploy it with the address and transfer required token to your address.
