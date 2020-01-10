@@ -29,7 +29,7 @@ Contract Test ABI :
 `PAXtest.abi`
 
 Token Holder Link :
-`https://rinkeby.etherscan.io/token/0xf77722e80da04da3ab79f4a17187b1b938ac8646#balances`
+https://rinkeby.etherscan.io/token/0xf77722e80da04da3ab79f4a17187b1b938ac8646#balances
 
 Option 1 :
 Compile the contract in remix.ethereum.org and deploy it with the address and transfer required token to your address.
